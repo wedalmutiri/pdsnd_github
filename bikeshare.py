@@ -244,7 +244,7 @@ def table_stats(df, city):
 
     
 def display_raw_data(df):
-    """Displays raw data on user request.
+    """Displays 5 rwos of raw data at a time, on user request.
     Args:
         (DataFrame) df - Pandas DataFrame containing city data filtered by month and day
     """
