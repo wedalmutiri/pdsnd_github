@@ -8,7 +8,8 @@ Explore US Bikeshare Data
 
 
 ### Description
-In this project, we will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington
+In this project, we will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+the data is provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns.
 
 ### Files used
 chicago.csv
